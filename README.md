@@ -3,6 +3,8 @@
 
 ![image](https://github.com/user-attachments/assets/0ff51df1-1215-4eaf-b83f-0d2ae122e719)
 
+- [Schedule 1 Calculator](https://schedule1calculator.org/)
+- [Schedule 1 Mix](https://schedule1calculator.org/mixing-calculator)
 
 ## Understanding the Power of Schedule 1 Calculator
 
